@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Julien-Porte
+- 👀 I’m interested in electonical circut and programation
+- 🌱 I’m currently learning C++
+- I’m looking to collaborate with @command maker
+ - You can send me an email on : julien.porte@gmail.com
